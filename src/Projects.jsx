@@ -145,8 +145,8 @@ const Projects = () => {
       description:
         "Ecommerce Web Application – E-Commerce Web Application – Developed a fully responsive online shopping platform using React.js with user authentication, cart management, and secure payment integration. Implemented a seamless shopping experience where users can browse products, add items to the cart, and place orders through a Stripe-powered checkout system. Designed reusable components, optimized state management with Context API, and ensured smooth navigation with React Router. Focused on performance, usability, and clean UI for an engaging user experience.",
       stack: ["React.js", "CSS", "Material-UI"],
-      codeLink: "https://github.com/divakar-saravanan/NotesWeb/tree/main/notesapp",
-      liveLink: "https://notestaken.netlify.app/",
+      codeLink: "https://github.com/divakar-saravanan/Portfolio",
+      liveLink: "https://swiftca.netlify.app/",
     },
   ];
 
