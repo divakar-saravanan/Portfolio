@@ -68,7 +68,7 @@ const About = () => {
         animate={{ opacity: 1 }}
         transition={{ duration: 1 }}
       >
-        <div style={overlay}></div> {/* Overlay behind content */}
+        <div style={overlay}></div> 
 
         <motion.div
           style={content}

@@ -5,6 +5,8 @@ import Projects from "./Projects";
 import Skills from "./Skills";
 
 
+
+
 import './App.css'
 const App =()=>
 {
@@ -17,10 +19,12 @@ const App =()=>
        <Route path="/About" element={<About/>}/>
        <Route path="/Skills" element={<Skills/>}/>
        <Route path="/Projects" element={<Projects/>}/>
+
      
-    
+
 
      </Routes>  
+     
    </Router>
    </div>
  )
